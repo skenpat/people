@@ -34,7 +34,11 @@ Kumpulan orang-orang Skenpat.
 
 ### Angkatan 68 (2024 - 2027)
 
-*Belum ada data.*
+* [Evan Satria](https://github.com/Alecto1b)
+* [Muhammad Ryo Faiz Al Fayyadh](https://github.com/nescryo)
+* [Muhammad Adnan](https://github.com/adnannpm)
+* [Muhammad Alfarizy](https://github.com/charltonx4322-code)
+* [Abdullah Alhakim](https://github.com/AbdullahAl-Hakim)
 
 ### Angkatan 67 (2023 - 2026)
 
